@@ -1,0 +1,34 @@
+import java.util.Scanner;
+interface methods
+{
+int size();
+void enqueue(int x);
+int dequeue();
+boolean isfull();
+boolean isempty();
+void display();
+}
+class Queue
+{
+public int arr[];
+public int front;
+public int rear;
+public int capacity;
+public int count;
+Queue(int x)
+{
+arr=new int[x];
+front=rear=-1;
+capacity = x;
+count=0;
+}
+}
+
+public class Experiment_8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		}
+}
+

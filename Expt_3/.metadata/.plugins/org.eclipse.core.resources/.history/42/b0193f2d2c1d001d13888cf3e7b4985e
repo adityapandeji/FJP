@@ -1,0 +1,68 @@
+import java.util.*;
+public class Rectangle {
+	
+	double lenght;
+	double width;
+	double area;
+	String colour;
+	
+	void get_length(){
+		Scanner obj = new Scanner(System.in);
+		lenght = obj.nextInt();
+	}
+	void get_width(){
+		Scanner obj = new Scanner(System.in);
+		width = obj.nextInt();
+	}
+	String get_colour(){
+		Scanner obj = new Scanner(System.in);
+		colour = obj.nextLine();
+		return colour;
+	}
+	double find_area(){
+		area = lenght*width;
+		return area;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Rectangle rect1 = new Rectangle();
+		Rectangle rect2 = new Rectangle();
+		
+		double area1, area2;
+		String colour1, colour2;
+		
+		System.out.println("ENter length for rectangle 1: ");
+		rect1.get_length();
+		System.out.println("ENter width for rectangle 1: ");
+		rect1.get_width();
+		System.out.println("ENter colour of rectangle 1: ");
+		colour1 = rect1.get_colour();
+		System.out.println(colour1);
+		area1 = rect1.find_area();
+		System.out.println(area1);
+		
+		System.out.println("ENter length for rectangle 2: ");
+		rect2.get_length();
+		System.out.println("ENter width for rectangle 2: ");
+		rect2.get_width();
+		System.out.println("ENter colour of rectangle 2: ");
+		colour2 = rect2.get_colour();
+		System.out.println(colour2);
+		area2 = rect2.find_area();
+		System.out.println(area2);
+		
+		if ((colour1 == colour2)) {
+			System.out.println("Matching Rectangles");
+		}
+		else {
+			System.out.println("Non-Matching Rectangles");
+		}
+	}
+	
+	
+	
+	
+	
+
+}
