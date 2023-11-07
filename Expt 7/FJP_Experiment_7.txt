@@ -1,0 +1,34 @@
+Experirment 7: 
+
+Title: Inheritance in JAVA
+
+Problem Statement: Demonstrate the concept of inheritance in JAVA by designing a Player class. 
+Inherit the Player class to Cricket_player, Football_player and Hockey_player.
+
+Objectives: 
+1. Get familiar with concept of inheritance in JAVA.
+2. Implement inheritance by deriving Cricket_player, Football_player and Hockey_player from Player class.
+3. Use the keyword, super() to access methods of base class.
+4. Demonstrate the concept of method overriding.
+
+Learning Outcomes:
+1. Learnt to design base class and inherit derived classes from the same.
+2. Learnt the use of super() keyword.
+3. Implemented the concept of inheritance and method overriding with Player as base class and Cricket_player, 
+Football_player and Hockey_player as derived classes to get and display the details of players.
+
+Diagram:
+1) Syntax for sub class 
+2) Diagram for type of inheritance(Single, Multilevel, Hierarchical)
+
+Questions: 
+1) What is the inheritance? explain with example.
+2) what are the advantages of inheritance concepts.
+3) How to define the super class and sub class.
+4) What are the different types of inheritance in JAVA and explain with example.
+5) How to perform the multiple inheritance in JAVA?
+6) What is the use of super keyword in JAVA programming?
+7) what are the difference between the method overloading and method overriding?
+8) How to invoke the super class constructor using sub class object?
+9) what is the difference between this and super keyword?
+10) what happened when we declare a method and class as an abstract?

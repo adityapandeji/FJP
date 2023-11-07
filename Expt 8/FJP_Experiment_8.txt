@@ -1,0 +1,29 @@
+Experirment 8: 
+
+Title: Interface in JAVA
+
+Problem Statement: Build the concept of multiple inheritance by implementing interface features of JAVA programming.
+
+Objectives: 
+1. Get familiar with concept of interface in JAVA.
+2. Implement multiple inheritance using interface.
+3. Implement the Queue data structure using JAVA programming
+
+Learning Outcomes:
+1. Implemented the concept of interface in JAVA.
+2. Learnt how to implement interface in a class.
+3. Implemented the Queue data structure in JAVA using multiple inheritance through interface feature.
+
+Diagram: Draw the diagram for implementation of interface using different techniques.
+
+Que: 
+1) What is the multiple inheritance?
+2) Why we do not implement the concept of multiple inheritance using classes in JAVA?
+3) What is interface?
+4) What are the contents in the interface?
+5) How to implement the interface? Explain every method using example.
+6) Can I inheriate the interface?
+7) What is the difference between class and interface?
+8) Explain the concept default method in the interface.
+9) Explain the concept of static method in the interface.
+10)What is the difference between the abstract class and interface?
