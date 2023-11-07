@@ -1,0 +1,30 @@
+Experirment 5: 
+
+Title: Array Operations (One dimesional arrays)
+
+Problem Statement: Create and sort array for: i) List of integers  ii) List of names.
+
+Objectives: 
+1. Create an array of integers and sort the same in ascending and descending order using user defined functions.
+2. Create an array of integers using Wrapper class, Integer.
+3. Crate and sort an array of strings (names) in ascending and descending order.
+
+Learning Outcomes:
+1. Learnt to create and initialze array elements.
+2. Implemented the concept of wrapper class for integers.
+3. Sorted the arry elements in ascending order using Arrays.sort() and in descending order using Arrays.sort(Collections.reverseOrder()) from java.util.
+
+Diagram:
+Syntax: 1 D array creation Diagram (refer E Balagurusamy book chapter no. 9, Fig 9.1)
+
+Questions:
+1) How to create an array in JAVA?
+2) How to create string array in JAVA?
+3) How to initialize the array elements in JAVA?
+4) How to display the array elements in JAVA?
+5) How to sort the array elements in JAVA?
+6) What are the inbuilt methods to sort out the array elements?
+7) How to create an array of different type of elements?
+8) How to create dynamic type of an array?
+9) What is the difference between int and Integer type of data
+10)What is the differene between String s and String s=new String?

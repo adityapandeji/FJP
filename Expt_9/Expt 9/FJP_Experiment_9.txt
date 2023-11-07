@@ -1,0 +1,28 @@
+Experirment 9: 
+
+Title: Exception Handling in JAVA
+
+Problem Statement: Implement the exception handling using try and catch statements to solve runtime errors.
+
+Objectives: 
+1. Learn about difference between compile-time and run-time errors and various run-time errrors.
+2. Apply try and catch block to solve run-time errors.
+
+Learning Outcomes:
+1. Implemented exception handling in JAVA.
+2. Implemented the try-catch block to handle arithmetic exception, array index out of bounds exception and number format exception.
+3. Learnt the use of finally statement.
+
+Diagram: Table of different types of exceptions and there causes
+
+Question: 
+1) What are the different types of errors in JAVA programming?
+2) What is the difference between compile time error and run time error?
+3) What are the different types of exceptions (run time errrors) in JAVA programming?
+4) How to handle the run time exception in JAVA programming?
+5) How to implement the try, catch and throw statments?
+6) Explain the concept of multiple catch blocks in JAVA programming with examples.
+7) What is significance of finally method?
+8) What is the concept of multithreading? How to imlement in the JAVA programming?
+9) What is the applet code and explain the life cycle of applet?
+10)Explain the life cycle of thread.
